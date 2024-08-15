@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "username": "nico",
+        "password": "nico",
+        "teams": ["galaxy", "millionz"]
+      },
+      {
+        "username": "emi",
+        "password": "emi",
+        "teams": ["galaxy", "millionz"]
+      },
+      {
+        "username": "admin",
+        "password": "adminpass",
+        "teams": ["teamA", "teamB", "teamC"]
+      }
+    ]
+  }
